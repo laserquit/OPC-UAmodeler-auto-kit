@@ -9,7 +9,7 @@ a quick auto kit for loading uamodeler XML file
 Open a terminal and run the following commands:
 
 ```
-cd build
+mkdir build && cd ./build
 cmake ..
 cmake --build .
 ```
